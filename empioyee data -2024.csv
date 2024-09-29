@@ -1,0 +1,15 @@
+﻿EmployeeType,(All),,,,,
+,,,,,,
+Count of FirstName,Column Labels,,,,,
+Row Labels,Active,Future Start,Leave of Absence,Terminated for Cause,Voluntarily Terminated,Grand Total
+BPC,243,6,9,13,32,303
+CCDR,249,12,4,6,29,300
+EW,245,5,15,4,33,302
+MSC,239,4,10,11,32,296
+NEL,246,6,7,7,38,304
+PL,246,9,9,9,28,301
+PYZ,250,7,7,6,29,299
+SVG,246,11,12,2,33,304
+TNS,242,3,11,4,37,297
+WBL,252,6,2,4,30,294
+Grand Total,2458,69,86,66,321,3000
